@@ -1,0 +1,277 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#08120e">
+<title>السوبرماركت | منتجات وطلبات في الخرطوم</title>
+<meta name="description" content="السوبرماركت — منتجات غذائية ومنزلية بأسعار واضحة وتوصيل داخل الخرطوم، والطلب عبر واتساب.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="السوبرماركت | منتجات وطلبات في الخرطوم">
+<meta property="og:site_name" content="السوبرماركت">
+<meta property="og:description" content="السوبرماركت — منتجات غذائية ومنزلية بأسعار واضحة وتوصيل داخل الخرطوم، والطلب عبر واتساب.">
+<meta property="og:image" content="https://elhassanali36-art.github.io/Anfal-Supermarket/img/icon-512.png">
+<meta property="og:image:alt" content="السوبرماركت">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/png" sizes="192x192" href="img/icon-192.png">
+<link rel="apple-touch-icon" sizes="180x180" href="img/icon-180.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="img/icon-180.png">
+<meta name="application-name" content="السوبرماركت">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="السوبرماركت">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0b0d10;--panel:#12161c;--panel2:#171d24;--line:#242c36;
+  --ink:#eef2f6;--muted:#96a2af;--gold:#35c07f;--gold-soft:#9fe8c4;
+  --shadow:0 18px 50px rgba(0,0,0,.45);
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{background:var(--bg);color:var(--ink);font-family:'Cairo',Tahoma,Arial,sans-serif;line-height:1.65;-webkit-font-smoothing:antialiased}
+img{max-width:100%;display:block}
+a{color:var(--gold-soft);text-decoration:none}
+.wrap{max-width:1160px;margin:0 auto;padding:0 18px}
+.muted{color:var(--muted)}
+.small{font-size:12.5px}
+button{font:inherit;cursor:pointer;border:0;border-radius:12px;padding:12px 20px;font-weight:700;transition:transform .15s ease,opacity .15s ease}
+button:active{transform:translateY(1px)}
+.btn-gold{background:linear-gradient(135deg,#e6c384,#c9973f);color:#1a1206;box-shadow:0 8px 24px rgba(216,171,94,.22)}
+.btn-ghost{background:transparent;color:var(--ink);border:1px solid var(--line)}
+.btn-wa{background:#1f8f52;color:#fff}
+.btn-gold:hover,.btn-wa:hover{filter:brightness(1.06)}
+
+/* header */
+header.top{position:sticky;top:0;z-index:9;background:rgba(11,13,16,.92);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.head{display:flex;align-items:center;justify-content:space-between;gap:14px;padding:12px 18px}
+.brand{display:flex;align-items:center;gap:12px;min-width:0}
+.logo{width:46px;height:46px;border-radius:13px;object-fit:cover;box-shadow:0 6px 16px rgba(0,0,0,.35);color:#1a1206;display:grid;place-items:center;font-weight:800;font-size:24px;flex:0 0 auto}
+.brand h1{margin:0;font-size:19px;font-weight:800;letter-spacing:.2px}
+.brand p{margin:2px 0 0;font-size:12px;color:var(--muted)}
+.hdr-actions{display:flex;gap:8px;flex:0 0 auto}
+.hdr-actions a{padding:10px 16px;border-radius:11px;font-size:14px;font-weight:700;white-space:nowrap}
+.hdr-actions .wa{background:#1f8f52;color:#fff}
+.hdr-actions .call{border:1px solid var(--line);color:var(--ink)}
+
+/* hero */
+.hero{margin:26px 0 8px;position:relative;overflow:hidden;border:1px solid var(--line);border-radius:24px;padding:34px;background:
+  radial-gradient(900px 320px at 85% -20%,rgba(216,171,94,.16),transparent 70%),
+  radial-gradient(700px 260px at 10% 120%,rgba(216,171,94,.07),transparent 70%),
+  linear-gradient(160deg,#141a21,#0e1216)}
+.kicker{display:inline-block;font-size:12.5px;letter-spacing:1px;color:var(--gold);border:1px solid rgba(216,171,94,.35);background:rgba(216,171,94,.08);padding:5px 12px;border-radius:999px}
+.hero h2{margin:16px 0 10px;font-size:clamp(26px,4.6vw,42px);line-height:1.25;font-weight:800}
+.hero h2 span{color:var(--gold)}
+.hero p{margin:0;max-width:560px;color:#c3ccd6;font-size:15.5px}
+.hero-actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:22px}
+.hero-note{margin-top:14px;font-size:12.5px;color:var(--muted)}
+.stats{display:flex;gap:26px;flex-wrap:wrap;margin:26px 0 0;padding:0;list-style:none;border-top:1px solid var(--line);padding-top:18px}
+.stats li{min-width:110px}
+.stats b{display:block;font-size:20px;color:var(--gold-soft)}
+.stats span{font-size:12.5px;color:var(--muted)}
+
+/* filters */
+.searchrow{display:flex;gap:10px;margin:22px 0 14px}
+.searchrow input{flex:1;min-width:0;background:var(--panel);border:1px solid var(--line);color:var(--ink);border-radius:13px;padding:13px 16px;font-size:15px}
+.searchrow input::placeholder{color:#6f7b88}
+.searchrow input:focus{outline:none;border-color:rgba(216,171,94,.55);box-shadow:0 0 0 3px rgba(216,171,94,.1)}
+.searchrow button{flex:0 0 auto;padding:12px 18px}
+.chips{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:22px}
+.chip{background:var(--panel);border:1px solid var(--line);color:#c1cbd6;padding:9px 16px;border-radius:999px;font-size:13.5px;font-weight:600}
+.chip.active{background:linear-gradient(135deg,#e6c384,#c9973f);color:#1a1206;border-color:transparent}
+.sectiontitle{display:flex;justify-content:space-between;align-items:baseline;gap:10px;margin:6px 0 16px}
+.sectiontitle h3{margin:0;font-size:20px}
+
+/* car grid */
+.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
+.car{background:linear-gradient(180deg,var(--panel2),var(--panel));border:1px solid var(--line);border-radius:20px;overflow:hidden;display:flex;flex-direction:column;min-width:0;box-shadow:var(--shadow);transition:transform .18s ease,border-color .18s ease}
+.car:hover{transform:translateY(-3px);border-color:rgba(216,171,94,.4)}
+.carimg{position:relative;aspect-ratio:4/3;background:#0e1217;overflow:hidden}
+.carimg img{width:100%;height:100%;object-fit:cover}
+.carimg .badge{position:absolute;top:10px;inset-inline-start:10px;background:rgba(11,13,16,.82);border:1px solid rgba(216,171,94,.4);color:var(--gold-soft);font-size:11.5px;font-weight:700;padding:4px 10px;border-radius:999px;backdrop-filter:blur(4px)}
+.carimg .yearbadge{position:absolute;top:10px;inset-inline-end:10px;background:var(--gold);color:#1a1206;font-size:12px;font-weight:800;padding:4px 10px;border-radius:999px}
+.carbody{padding:16px;display:flex;flex-direction:column;gap:10px;flex:1}
+.carbody h4{margin:0;font-size:18px;font-weight:800}
+.metaline{display:flex;gap:8px;flex-wrap:wrap;font-size:12px;color:var(--muted)}
+.metaline i{font-style:normal;background:#1b222b;border:1px solid var(--line);padding:3px 9px;border-radius:999px;display:inline-block}
+.pricerow{display:flex;align-items:baseline;gap:7px;flex-wrap:wrap}
+.price{font-size:26px;font-weight:800;color:var(--gold-soft);line-height:1}
+.price small{font-size:13px;color:var(--muted);font-weight:600}
+.commission{font-size:12.5px;color:#c9d3de;background:rgba(31,143,82,.1);border:1px solid rgba(31,143,82,.25);border-radius:9px;padding:6px 10px}
+.car-actions{display:flex;gap:8px;margin-top:auto;padding-top:6px}
+.car-actions button{flex:1;padding:11px 12px;font-size:13.5px}
+.empty{grid-column:1/-1;text-align:center;padding:50px 20px;border:1px dashed var(--line);border-radius:18px;color:var(--muted)}
+
+/* notes */
+.notes{margin:38px 0 10px;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.note{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:16px 18px}
+.note b{display:block;color:var(--gold-soft);font-size:14px;margin-bottom:4px}
+.note p{margin:0;font-size:13px;color:var(--muted)}
+
+/* footer */
+footer{margin-top:46px;border-top:1px solid var(--line);background:#080a0d}
+footer .wrap{display:flex;justify-content:space-between;gap:24px;flex-wrap:wrap;padding:28px 18px}
+footer b{color:var(--gold-soft)}
+footer p{margin:4px 0;font-size:13px;color:var(--muted)}
+footer nav{display:flex;gap:14px;flex-wrap:wrap;font-size:13px;margin-top:8px}
+footer nav a{color:#b9c4d0}
+
+/* modal */
+.modal{position:fixed;inset:0;z-index:40;display:none;background:rgba(5,7,9,.78);backdrop-filter:blur(3px);padding:16px;overflow:auto}
+.modal.show{display:block}
+.panel{background:linear-gradient(180deg,#151b23,#0f141a);border:1px solid var(--line);border-radius:22px;max-width:940px;margin:3vh auto;box-shadow:var(--shadow);overflow:hidden}
+.panel-grid{display:grid;grid-template-columns:1.05fr 1fr}
+.panel-media{position:relative;background:#0c1014;min-height:240px}
+.panel-media img{width:100%;height:100%;object-fit:cover;min-height:240px}
+.panel-media .tag{position:absolute;bottom:10px;inset-inline-start:10px;background:rgba(8,10,13,.85);color:#cfd8e2;font-size:11.5px;padding:4px 10px;border-radius:999px}
+.panel-body{padding:24px;min-width:0}
+.panelhead{display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
+.panelhead h2{margin:0;font-size:22px;line-height:1.3}
+.close{background:#1c232c;color:#cfd8e2;padding:8px 13px;border-radius:10px;font-size:13px}
+.panel-price{display:flex;gap:10px;flex-wrap:wrap;align-items:baseline;margin:14px 0 6px}
+.panel-price .big{font-size:30px;font-weight:800;color:var(--gold-soft)}
+.speclist{list-style:none;margin:14px 0 0;padding:0;display:grid;grid-template-columns:1fr 1fr;gap:7px 14px}
+.speclist li{font-size:13.5px;color:#d3dce6;display:flex;gap:7px;align-items:flex-start}
+.speclist li:before{content:"✓";color:var(--gold);font-weight:800;line-height:1.5}
+.panel-actions{display:flex;gap:8px;margin-top:20px;flex-wrap:wrap}
+.panel-actions button,.panel-actions a{flex:1;text-align:center;padding:12px;border-radius:12px;font-size:14px;font-weight:700;min-width:130px}
+.panel-actions .wa{background:#1f8f52;color:#fff}
+.panel-actions .call{border:1px solid var(--line);color:var(--ink);background:transparent}
+.place{font-size:13px;color:var(--muted);margin-top:12px;display:flex;gap:6px;align-items:center}
+
+@media (max-width:900px){
+  .grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .notes{grid-template-columns:1fr}
+  .panel-grid{grid-template-columns:1fr}
+  .panel-media img{min-height:190px;max-height:260px}
+}
+@media (max-width:600px){
+  .hero{padding:24px 20px;border-radius:20px}
+  .head{padding:10px 14px}
+  .brand h1{font-size:16px}
+  .brand p{font-size:11px}
+  .hdr-actions a{padding:9px 12px;font-size:13px}
+  .grid{grid-template-columns:1fr;gap:14px}
+  .speclist{grid-template-columns:1fr}
+  .stats{gap:18px}
+}
+@media (max-width:380px){.brand p{display:none}.hdr-actions a{padding:8px 10px;font-size:12.5px}.hero h2{font-size:24px}}
+.install{position:fixed;bottom:16px;inset-inline-start:16px;z-index:30;background:linear-gradient(135deg,#e6c384,#c9973f);color:#1a1206;font-weight:800;font-size:13.5px;padding:12px 18px;border-radius:999px;box-shadow:0 12px 30px rgba(0,0,0,.45)}
+@media (max-width:600px){.install{bottom:12px;inset-inline-start:12px;font-size:13px;padding:11px 16px}}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="head">
+    <div class="brand">
+      <img class="logo" src="img/icon-192.png" alt="السوبرماركت" width="46" height="46">
+      <div>
+        <h1 id="storeName">السوبرماركت</h1>
+        <p id="storeTagline">سوبرماركت الأنفال — توصيل الخرطوم</p>
+      </div>
+    </div>
+    <div class="hdr-actions">
+      <a class="call" id="callBtn" href="tel:+249903263031">اتصال</a>
+      <a class="wa" id="waBtn" href="#" target="_blank" rel="noopener">واتساب</a>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="hero">
+    <span class="kicker">سوبرماركت الأنفال</span>
+    <h2>احتياجات البيت <span>بأسعار السوق</span></h2>
+    <p id="heroText">منتجات غذائية ومنزلية بأسعار واضحة، تجهيز الطلب والتوصيل داخل الخرطوم عبر الواتساب.</p>
+    <div class="hero-actions">
+      <button class="btn-gold" onclick="scrollToCars()">تصفح المنتجات</button>
+      <a class="btn-ghost" id="heroWa" href="#" target="_blank" rel="noopener" style="display:inline-block;padding:12px 20px;border-radius:12px;font-weight:700">اسأل عن منتج</a>
+    </div>
+    <div class="hero-note" id="heroNote">الأسعار بالجنيه السوداني للتجزئة</div>
+    <ul class="stats">
+      <li><b id="statCars">0</b><span>منتجات متاحة الآن</span></li>
+      <li><b>توصيل الخرطوم</b><span>التوصيل</span></li>
+      <li><b>واتساب</b><span>اطلب على الواتساب</span></li>
+    </ul>
+  </section>
+
+  <div class="searchrow">
+    <input id="search" type="search" placeholder="ابحث باسم المنتج أو القسم…" aria-label="بحث عن منتج">
+    <button class="btn-ghost" onclick="resetSearch()">تصفير</button>
+  </div>
+
+  <div id="categories" class="chips" role="tablist" aria-label="تصنيف المنتجات"></div>
+
+  <div class="sectiontitle">
+    <h3>المنتجات المتاحة</h3>
+    <span class="muted small" id="carCount"></span>
+  </div>
+
+  <section id="grid" class="grid" aria-live="polite"></section>
+
+  <section class="notes"><div class="note"><b>توصيل داخل الخرطوم</b><p>نجهّز طلبك ونرسله للمنطقة المذكورة، ورسوم التوصيل تُحدَّد حسب المنطقة.</p></div><div class="note"><b>الأسعار محدَّثة</b><p>سعر المنتج معلن بالجنيه، وأي تغيير في السعر يُبلَّغ قبل التجهيز.</p></div><div class="note"><b>اطلب ببساطة</b><p>اكتب طلبك على الواتساب: المنتجات والكميات والعنوان.</p></div></section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div>
+      <b id="footerName">السوبرماركت</b>
+      <p id="footerAddress">الخرطوم — السودان</p>
+      <p id="footerPhone"></p>
+    </div>
+    <div>
+      <p>سوبرماركت الأنفال — منتجات البيت بتوصيل داخل الخرطوم.</p>
+      <nav aria-label="السياسات">
+        <a href="terms.html">سياسة التوصيل والدفع</a>
+        <a href="privacy.html">الخصوصية</a>
+        <a href="terms.html">الشروط</a>
+        <a href="credits.html">حقوق الصور</a>
+      </nav>
+    </div>
+  </div>
+</footer>
+
+<div id="carModal" class="modal" onclick="if(event.target===this)closeCar()">
+  <div class="panel" role="dialog" aria-modal="true" aria-labelledby="mTitle">
+    <div class="panel-grid">
+      <div class="panel-media">
+        <img id="mImage" src="" alt="">
+        <span class="tag" id="mImageNote"></span>
+      </div>
+      <div class="panel-body">
+        <div class="panelhead">
+          <h2 id="mTitle"></h2>
+          <button class="close" onclick="closeCar()" aria-label="إغلاق">إغلاق ✕</button>
+        </div>
+        <div class="metaline" id="mMeta"></div>
+        <div class="panel-price">
+          <span class="big" id="mPrice"></span>
+          <span class="muted small" id="mPriceNote"></span>
+        </div>
+        <div class="commission" id="mCommission"></div>
+        <ul class="speclist" id="mSpecs"></ul>
+        <div class="place" id="mPlace"></div>
+        <div class="panel-actions">
+          <a class="wa" id="mWa" href="#" target="_blank" rel="noopener">استفسار واتساب</a>
+          <a class="call" id="mCall" href="#">اتصال</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="data.js?v=8"></script>
+<script src="app.js"></script>
+
+<button id="installBtn" class="install" hidden>ثبّت تطبيق السوبرماركت</button>
+<script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', function () { navigator.serviceWorker.register('sw.js').catch(function () {}); });
+}
+</script>
+</body>
+</html>
