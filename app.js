@@ -11,6 +11,11 @@
     return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
   }); }
   function waLink(text) { return 'https://wa.me/' + wa + (text ? '?text=' + encodeURIComponent(text) : ''); }
+  function imgsOf(c) {
+    var a = (Array.isArray(c.images) ? c.images : []).filter(Boolean);
+    if (!a.length && c.image) a = [c.image];
+    return a.slice(0, 4);
+  }
 
   function applySettings() {
     var s = settings;
@@ -69,7 +74,9 @@
       return;
     }
     $('#grid').innerHTML = list.map(function (c) {
-      var img = c.image ? '<img src="' + esc(c.image) + '" alt="' + esc(c.title) + '" loading="lazy">' : '';
+      var imgs = imgsOf(c);
+      var img = imgs.length ? '<img src="' + esc(imgs[0]) + '" alt="' + esc(c.title) + '" loading="lazy">' : '';
+      if (imgs.length > 1) img += '<span class="imgcount">\ud83d\udcf7 ' + imgs.length + '</span>';
       return '' +
         '<article class="car">' +
           '<div class="carimg">' + img +
@@ -103,11 +110,33 @@
   window.resetSearch = function () { $('#search').value = ''; activeCategory = 'الكل'; renderChips(); renderCars(); };
   window.scrollToCars = function () { document.getElementById('carCount').scrollIntoView({ behavior: 'smooth', block: 'start' }); };
 
+  function renderThumbs(c) {
+    var box = $('#mThumbs');
+    if (!box) return;
+    var g = window.__gal || [];
+    if (g.length < 2) { box.innerHTML = ''; box.style.display = 'none'; return; }
+    box.style.display = '';
+    box.innerHTML = g.map(function (src, i) {
+      return '<button class="thumbbtn' + (i === window.__galIdx ? ' on' : '') + '" data-i="' + i + '" aria-label="صورة ' + (i + 1) + '">' +
+        '<img src="' + esc(src) + '" alt="" loading="lazy"></button>';
+    }).join('');
+    Array.prototype.forEach.call(box.querySelectorAll('.thumbbtn'), function (b) {
+      b.addEventListener('click', function () {
+        window.__galIdx = Number(b.getAttribute('data-i'));
+        $('#mImage').src = window.__gal[window.__galIdx] || '';
+        renderThumbs(c);
+      });
+    });
+  }
+
   window.openCar = function (id) {
     var c = cars.filter(function (x) { return Number(x.id) === Number(id); })[0];
     if (!c) return;
     $('#mTitle').textContent = c.title;
-    $('#mImage').src = c.image || '';
+    var g = imgsOf(c);
+    window.__gal = g; window.__galIdx = 0;
+    $('#mImage').src = g[0] || '';
+    renderThumbs(c);
     $('#mImage').alt = c.title;
     $('#mImageNote').textContent = c.imageNote || '';
     $('#mImageNote').style.display = c.imageNote ? '' : 'none';
