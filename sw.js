@@ -1,5 +1,5 @@
 /* السوبرماركت — يعمل بسرعة ويحفظ آخر نسخة من العروض للعرض بدون إنترنت */
-var CACHE = 'market-v3';
+var CACHE = 'market-v4';
 var CORE = ['./', './index.html', './manifest.webmanifest', './img/icon-192.png', './img/icon-512.png', './img/placeholder.svg'];
 
 self.addEventListener('install', function (e) {
