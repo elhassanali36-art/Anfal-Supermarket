@@ -17,8 +17,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "السكر والدقيق والحبوب",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/01.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "400",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -30,6 +30,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/01.jpg"
       ]
     },
     {
@@ -38,8 +41,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "السكر والدقيق والحبوب",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/02.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "174",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -51,6 +54,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/02.jpg"
       ]
     },
     {
@@ -59,8 +65,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "السكر والدقيق والحبوب",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/03.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "73",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -72,6 +78,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/03.jpg"
       ]
     },
     {
@@ -80,8 +89,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "السكر والدقيق والحبوب",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/04.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "100",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -93,6 +102,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/04.jpg"
       ]
     },
     {
@@ -101,8 +113,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "السكر والدقيق والحبوب",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/05.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "210",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -114,6 +126,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/05.jpg"
       ]
     },
     {
@@ -122,8 +137,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "السكر والدقيق والحبوب",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/06.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "220",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -135,6 +150,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/06.jpg"
       ]
     },
     {
@@ -143,8 +161,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "الشاي والمشروبات",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/07.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "125",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -156,6 +174,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/07.jpg"
       ]
     },
     {
@@ -164,8 +185,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "الشاي والمشروبات",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/08.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "170",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -177,6 +198,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/08.jpg"
       ]
     },
     {
@@ -185,8 +209,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "الشاي والمشروبات",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/09.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "212",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -198,6 +222,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/09.jpg"
       ]
     },
     {
@@ -206,8 +233,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "الشاي والمشروبات",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/10.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "115",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -219,6 +246,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/10.jpg"
       ]
     },
     {
@@ -227,8 +257,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "الزيوت والسمن",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/11.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "720",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -240,6 +270,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/11.jpg"
       ]
     },
     {
@@ -248,8 +281,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "الزيوت والسمن",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/12.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "230",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -261,6 +294,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/12.jpg"
       ]
     },
     {
@@ -269,8 +305,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "الزيوت والسمن",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/13.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "192",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -282,6 +318,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/13.jpg"
       ]
     },
     {
@@ -290,8 +329,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "الزيوت والسمن",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/14.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "195",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -303,6 +342,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/14.jpg"
       ]
     },
     {
@@ -311,8 +353,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "الألبان والأجبان",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/15.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "1290",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -324,6 +366,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/15.jpg"
       ]
     },
     {
@@ -332,8 +377,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "الألبان والأجبان",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/16.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "382",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -345,6 +390,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/16.jpg"
       ]
     },
     {
@@ -353,8 +401,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "الألبان والأجبان",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/17.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "378",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -366,6 +414,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/17.jpg"
       ]
     },
     {
@@ -374,8 +425,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "الألبان والأجبان",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/18.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "143",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -387,6 +438,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/18.jpg"
       ]
     },
     {
@@ -395,8 +449,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "المكرونة والشعيرية",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/19.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "93",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -408,6 +462,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/19.jpg"
       ]
     },
     {
@@ -416,8 +473,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "المكرونة والشعيرية",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/20.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "93",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -429,6 +486,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/20.jpg"
       ]
     },
     {
@@ -437,8 +497,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "المكرونة والشعيرية",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/21.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "92",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -450,6 +510,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/21.jpg"
       ]
     },
     {
@@ -458,8 +521,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "المكرونة والشعيرية",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/22.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "65",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -471,6 +534,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/22.jpg"
       ]
     },
     {
@@ -479,8 +545,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "المكرونة والشعيرية",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/23.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "80",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -492,6 +558,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/23.jpg"
       ]
     },
     {
@@ -500,8 +569,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "المكرونة والشعيرية",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/24.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "57",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -513,6 +582,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/24.jpg"
       ]
     },
     {
@@ -521,8 +593,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "المكرونة والشعيرية",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/25.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "61",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -534,6 +606,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/25.jpg"
       ]
     },
     {
@@ -542,8 +617,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "الصلصات والمعلبات",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/26.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "163",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -555,6 +630,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/26.jpg"
       ]
     },
     {
@@ -563,8 +641,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "الصلصات والمعلبات",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/27.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "152",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -576,6 +654,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/27.jpg"
       ]
     },
     {
@@ -584,8 +665,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "الصلصات والمعلبات",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/28.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "142",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -597,6 +678,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/28.jpg"
       ]
     },
     {
@@ -605,8 +689,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "الصلصات والمعلبات",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/29.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "118",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -618,6 +702,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/29.jpg"
       ]
     },
     {
@@ -626,8 +713,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "الصلصات والمعلبات",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/30.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "125",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -639,6 +726,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/30.jpg"
       ]
     },
     {
@@ -647,8 +737,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "الصلصات والمعلبات",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/31.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "270",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -660,6 +750,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/31.jpg"
       ]
     },
     {
@@ -668,8 +761,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "الصلصات والمعلبات",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/32.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "245",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -681,6 +774,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/32.jpg"
       ]
     },
     {
@@ -689,8 +785,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "الصلصات والمعلبات",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/33.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "440",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -702,6 +798,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/33.jpg"
       ]
     },
     {
@@ -710,8 +809,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "البسكويت والكيك",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/34.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "42",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -723,6 +822,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/34.jpg"
       ]
     },
     {
@@ -731,8 +833,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "البسكويت والكيك",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/35.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "41",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -744,6 +846,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/35.jpg"
       ]
     },
     {
@@ -752,8 +857,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "البسكويت والكيك",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/36.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "36",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -765,6 +870,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/36.jpg"
       ]
     },
     {
@@ -773,8 +881,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "البسكويت والكيك",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/37.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "38",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -786,6 +894,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/37.jpg"
       ]
     },
     {
@@ -794,8 +905,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "البسكويت والكيك",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/38.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "37",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -807,6 +918,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/38.jpg"
       ]
     },
     {
@@ -815,8 +929,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "البسكويت والكيك",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/39.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "36",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -828,6 +942,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/39.jpg"
       ]
     },
     {
@@ -836,8 +953,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "البسكويت والكيك",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/40.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "39",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -849,6 +966,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/40.jpg"
       ]
     },
     {
@@ -857,8 +977,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "البسكويت والكيك",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/41.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "37",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -870,6 +990,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/41.jpg"
       ]
     },
     {
@@ -878,8 +1001,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "البسكويت والكيك",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/42.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "24",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -891,6 +1014,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/42.jpg"
       ]
     },
     {
@@ -899,8 +1025,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "البسكويت والكيك",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/43.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "105",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -912,6 +1038,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/43.jpg"
       ]
     },
     {
@@ -920,8 +1049,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "البسكويت والكيك",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/44.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "120",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -933,6 +1062,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/44.jpg"
       ]
     },
     {
@@ -941,8 +1073,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "الصابون والمنظفات",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/45.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "107",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -954,6 +1086,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/45.jpg"
       ]
     },
     {
@@ -962,8 +1097,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "الصابون والمنظفات",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/46.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "127",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -975,6 +1110,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/46.jpg"
       ]
     },
     {
@@ -983,8 +1121,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "الصابون والمنظفات",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/47.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "30",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -996,6 +1134,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/47.jpg"
       ]
     },
     {
@@ -1004,8 +1145,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "الصابون والمنظفات",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/48.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "80",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -1017,6 +1158,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/48.jpg"
       ]
     },
     {
@@ -1025,8 +1169,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "الصابون والمنظفات",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/49.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "170",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -1038,6 +1182,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/49.jpg"
       ]
     },
     {
@@ -1046,8 +1193,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "حفاضات الأطفال",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/50.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "72",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -1059,6 +1206,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/50.jpg"
       ]
     },
     {
@@ -1067,8 +1217,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "حفاضات الأطفال",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/51.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "70",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -1080,6 +1230,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/51.jpg"
       ]
     },
     {
@@ -1088,8 +1241,8 @@ window.__SHOWROOM__ = {
       "year": "",
       "category": "حفاضات الأطفال",
       "badge": "بالجملة",
-      "image": "img/placeholder.svg",
-      "imageNote": "",
+      "image": "img/p/52.jpg",
+      "imageNote": "صورة توضيحية",
       "price": "51",
       "priceUnit": "ألف",
       "priceNote": "سعر جملة",
@@ -1101,6 +1254,9 @@ window.__SHOWROOM__ = {
         "سعر الجملة — أم درمان",
         "قابل للتغيير",
         "يُجهّز عبر واتساب"
+      ],
+      "images": [
+        "img/p/52.jpg"
       ]
     }
   ]
